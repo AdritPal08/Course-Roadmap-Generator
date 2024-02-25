@@ -1,3 +1,2 @@
-graphviz
-pygraphviz
-pydot
+graphviz ==0.20.1
+pygraphviz == 1.12
