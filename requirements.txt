@@ -1,0 +1,8 @@
+streamlit
+graphviz
+google-generativeai
+python-dotenv
+pathlib
+seaborn
+streamlit_lottie
+-e .
