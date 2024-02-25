@@ -1,15 +1,17 @@
-# Notes Craft Pro : An application that effortlessly transcribes your YouTube videos into detailed notes
+# Course Compass :Crafting a Personalized Roadmap Tailored to Your Course
 
-An end-to-end project using Google Gemini, Python, and Streamlit to create an application where you Simply input your YouTube video link and add your prompt, and effortlessly transcribe your videos into detailed notes.
+An end-to-end project using Google Gemini, Python, Graphviz, and Streamlit to create an application where you can generate a roadmap for your course. 
+Just enter your course name, and it will automatically generate a flowchart of your course roadmap, from beginner to advanced levels. Once the flowchart is generated, you can download it by clicking the 'Download Roadmap' button.
+This application is useful for student and content creator.
 
 ## App Demo
-* App Name : Notes Craft Pro
-* App Link :[Click Here](https://notes-craft-pro.streamlit.app/)
+* App Name : Course Compass
+* App Link :[Click Here](https://course-compass-01.streamlit.app/)
 
 ## Key Features: 
-1.	When you select a subject, a predefined prompt will automatically fill the text field. You can also change and edit that prompt according to your needs. You can write the prompt in any language you want.
-2.	You can also choose the language of the generated notes by selecting it from the language dropdown.
-3.	You can download the notes as a text file by clicking the download button.
+1. By providing the course name, it automatically generates a roadmap from beginner to advanced levels.
+2. Once the flowchart is generated, you can download it by clicking the 'Download Roadmap' button.
+3. This application is useful for student and content creator.
 
 ## Technologies Used
 <code><img height="30" src="https://github.com/AdritPal08/Gemify-LLM-APP/blob/main/readme_resources/Google-Gemini.png"></code>
