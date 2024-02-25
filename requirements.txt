@@ -5,4 +5,5 @@ python-dotenv
 pathlib
 seaborn
 streamlit_lottie
+emoji
 -e .
