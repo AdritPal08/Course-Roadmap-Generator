@@ -83,7 +83,7 @@ if field_of_study:
         # Add a download button for the SVG file
         st.download_button(emoji.emojize("Download RoadMap :arrow_down:"), svg_content, file_name=f"{field_of_study}_course_roadmap.svg", mime="image/svg+xml")
 else:
-    st.error("Please enter a field of study.")
+    st.error("Please enter course name.")
     col1, col2, col3 = st.columns([0.2, 0.6, 0.2])
     with col2:
         st_lottie("https://lottie.host/e1de7a95-db4b-4844-b7af-04ccc2eabb4f/fsFmquVkPw.json", width=250, height=250)
